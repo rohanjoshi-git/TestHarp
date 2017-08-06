@@ -12,6 +12,7 @@ namespace HARP_WebAPI_1.Controllers
     [EnableCorsAttribute("*", "*", "*")]
     public class HARPController : ApiController
     {
+        // Get all rows
         public IEnumerable<HARP> Get()
         {
             using (db_HDPEntities entities = new db_HDPEntities())
