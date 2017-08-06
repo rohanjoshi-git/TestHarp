@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARP_WebAPI_1", "HARP_WebAPI_1\HARP_WebAPI_1.csproj", "{53DC1943-FB93-4A5E-B24D-0FEF6117CAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARPDataAccess", "HARPDataAccess\HARPDataAccess.csproj", "{9739A48A-D2CB-4A8E-B401-86E3AC31B789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DC1943-FB93-4A5E-B24D-0FEF6117CAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DC1943-FB93-4A5E-B24D-0FEF6117CAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DC1943-FB93-4A5E-B24D-0FEF6117CAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DC1943-FB93-4A5E-B24D-0FEF6117CAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9739A48A-D2CB-4A8E-B401-86E3AC31B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9739A48A-D2CB-4A8E-B401-86E3AC31B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9739A48A-D2CB-4A8E-B401-86E3AC31B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9739A48A-D2CB-4A8E-B401-86E3AC31B789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
